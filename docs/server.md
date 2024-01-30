@@ -127,7 +127,7 @@ DSA 格式的密钥文件默认为`/etc/ssh/ssh_host_dsa_key`（公钥为`ssh_ho
 
 # HostKeys for protocol version 2
 # HostKey /etc/ssh/ssh_host_rsa_key
-# HostKey /etc/ssh/ssh_host_dsa_ke
+# HostKey /etc/ssh/ssh_host_dsa_key
 ```
 
 上面命令前面的`#`表示这些行都是注释，因为这是默认值，有没有这几行都一样。
